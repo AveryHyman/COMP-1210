@@ -1,0 +1,25 @@
+!1157;s
+J
+SAU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+SCU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+S+U0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SOU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+SyU0PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!2431;d
+[\012  grasp [\012   legendy -31.653846153846153\012   legendx -55.0\012   version 1\012   winflags 3\012   eheight 720\012   ewidth 917\012   height 720\012   width 917\012   wbp 0\012   initlayout 0\012   yoffs 1.846153846153726\012   xoffs -53.11538461538464\012   scale 1.0\012   args ""\012   otherflags 139\012   shallowjar 1\012   visflags 118423807\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    fields "count\\011I\\011\\01110\\011\\011\\011Cone\011height\\011D\\011\\0112\\011\\011\\011Cone\011label\\011Ljava/lang/String;\\011\\0112\\011\\011\\011Cone\011radius\\011D\\011\\0112\\011\\011\\011Cone\011Cone\\011(Ljava/lang/String;DD)V\\011c\\0111\\011\\011\\011Cone\011<clinit>\\011()V\\011\\0118\\011\\011\\011Cone\011baseArea\\011()D\\011\\0111\\011\\011\\011Cone\011basePerimeter\\011()D\\011\\0111\\011\\011\\011Cone\011equals\\011(Ljava/lang/Object;)Z\\011\\0111\\011\\011\\011Cone\011getCount\\011()I\\011\\0119\\011\\011\\011Cone\011getHeight\\011()D\\011\\0111\\011\\011\\011Cone\011getLabel\\011()Ljava/lang/String;\\011\\0111\\011\\011\\011Cone\011getRadius\\011()D\\011\\0111\\011\\011\\011Cone\011resetCount\\011()V\\011\\0119\\011\\011\\011Cone\011setHeight\\011(D)Z\\011\\0111\\011\\011\\011Cone\011setLabel\\011(Ljava/lang/String;)Z\\011\\0111\\011\\011\\011Cone\011setRadius\\011(D)Z\\011\\0111\\011\\011\\011Cone\011sideArea\\011()D\\011\\0111\\011\\011\\011Cone\011slantHeight\\011()D\\011\\0111\\011\\011\\011Cone\011surfaceArea\\011()D\\011\\0111\\011\\011\\011Cone\011toString\\011()Ljava/lang/String;\\011\\0111\\011\\011\\011Cone\011volume\\011()D\\011\\0111\\011\\011\\011Cone"\012    condition 0\012    access2 0\012    access 2228257\012    classname "Cone"\012    fromclassfiledate 1477941796000\012    fromclassfilename "%\011Cone.class"\012    fromfilename "%\011Cone.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x -99.84615384615381\012     y 30.461538461538424\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    condition 1\012    access2 0\012    access 2097152\012    classname "ConeList2"\012    fromclassfiledate 0\012    fromclassfilename "%\011ConeList2.class"\012    fromfilename "%\011ConeList2.java"\012   ]\012   id 1\012   graphics [\012    center [\012     x 10.153846153846189\012     y 30.461538461538424\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012 ]!35;g
+%\011ConeList2.java
+%\011Cone.java
+!35;f
+%\011ConeList2.java
+%\011Cone.java
+!43;l
+%\011ConeList2Test.java
+%\011ConeTest.java
+!49;t
+jgrCheckstyle0xr	%\011Cone.java	1477702148046:F	
